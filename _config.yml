@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Oncostat
 description: Statistical packages, teaching material or other developed by the Oncostat (CESP U1018 INSERM, Univ. Paris-Saclay, Department of Biostatistics and Epidemiology, Gustave Roussy) team members.
+github:
+  is_project_page: false
