@@ -3,14 +3,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Inserm.svg" alt="logo INSERM" width="200px">
 <img src="https://fr.wikipedia.org/wiki/Ligue_nationale_contre_le_cancer#/media/Fichier:LALIGUE_LOGO_C_RVB_V.tif" alt="logo LCC">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
-Oncostat is a research team of the Centre for Epidemiology and Population Health (CESP). More information on <https://cesp.inserm.fr/en/equipe/oncostat>.
 
 <nav class="navbar">
     <ul class="nav-list">
-        <li class="nav-item">Index<a href="index.html">Accueil</a></li>
-        <li class="nav-item">Stage offers<a href="offers.html">À propos</a></li>
+        <li class="nav-item"><a href="index.html">Index</a></li>
+        <li class="nav-item"><a href="offers.html">Stage offers</a></li>
     </ul>
 </nav>
+
+Oncostat is a research team of the Centre for Epidemiology and Population Health (CESP). More information on <https://cesp.inserm.fr/en/equipe/oncostat>.
 
 ## Teaching
 
@@ -114,7 +115,7 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ## Under development
 
--   
+-
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4ZHTSJHT5F"></script>
