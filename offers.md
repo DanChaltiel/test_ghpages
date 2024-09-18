@@ -1,6 +1,6 @@
 <img src="https://www.gustaveroussy.fr/sites/all/themes/gustave_roussy/logo.png" alt="logo GR">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Inserm.svg" alt="logo INSERM" width="200px">
-<img src="https://www3.ligue-cancer.net/logo/coul-ecr_LALIGUE_LOGO_C_RVB_600.png" alt="logo LCC">
+<img src="https://www3.ligue-cancer.net/logo/coul-ecr_LALIGUE_LOGO_C_RVB_600.png" alt="logo LCC" width="100px">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
 
 <nav class="navbar">
